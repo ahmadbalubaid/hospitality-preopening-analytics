@@ -1,0 +1,334 @@
+﻿Task_ID,Task_Name,Department_ID,Department_Name,Workstream,Owner,Vendor_ID,Priority,Critical_Path_Flag,Planned_Start_Date,Planned_End_Date,Planned_Cost
+IT-001,Core network design and cabling installation,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,VEN-IT-01,High,True,2026-12-17,2027-01-04,114100
+IT-002,Backbone switch and router configuration,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,,High,True,2026-12-08,2026-12-15,118100
+IT-003,Server room setup and rack installation,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,VEN-IT-01,Medium,False,2026-12-16,2027-01-07,36400
+IT-004,Guest Wi-Fi network deployment,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,,High,False,2026-12-14,2026-12-30,33300
+IT-005,Staff Wi-Fi network deployment,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,,High,False,2026-12-21,2027-01-08,39500
+IT-006,Wireless access point site survey,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,,High,False,2026-12-07,2026-12-20,85300
+IT-007,Network segmentation and VLAN configuration,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,VEN-IT-04,Critical,False,2026-12-22,2027-01-03,37000
+IT-008,Internet service provider circuit installation,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,,Low,False,2026-12-09,2026-12-25,34800
+IT-009,Firewall installation and configuration,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,VEN-IT-01,Medium,False,2026-12-23,2027-01-08,76200
+IT-010,Network uptime and failover testing,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,VEN-IT-04,High,True,2026-12-22,2026-12-30,45800
+IT-011,IP addressing scheme documentation,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,VEN-IT-02,Low,False,2026-12-25,2026-12-28,43500
+IT-012,IP Telephony / PBX system setup and testing,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,,Medium,False,2026-12-16,2026-12-24,37200
+IT-013,Server room UPS and power protection testing,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,,Medium,False,2026-12-07,2026-12-12,18400
+IT-014,Network and infrastructure monitoring setup,IT,Information Technology,Network & Infrastructure,Network Infrastructure Lead,VEN-IT-02,High,False,2026-12-11,2026-12-31,50000
+IT-015,PMS installation,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,,Critical,True,2027-01-04,2027-01-27,50000
+IT-016,PMS interface testing with Front Office,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,,Critical,True,2027-01-12,2027-01-18,59500
+IT-017,POS system installation for F&B outlets,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-03,High,True,2026-12-23,2027-01-11,26700
+IT-018,POS integration with PMS for guest billing,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,,High,True,2026-12-25,2027-01-18,28700
+IT-019,Channel manager and OTA connectivity setup,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-04,High,False,2027-01-07,2027-01-29,53100
+IT-020,Central reservation system integration,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,,Medium,False,2027-01-14,2027-01-31,15300
+IT-021,Payment gateway integration and testing,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,,Medium,False,2027-01-08,2027-01-17,51000
+IT-022,Door lock system integration with PMS,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-04,Critical,True,2026-12-24,2027-01-14,70800
+IT-023,Spa and activities booking system setup,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-04,Low,False,2026-12-22,2027-01-11,31800
+IT-024,Business intelligence and reporting tool setup,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-01,Low,False,2027-01-06,2027-01-11,129700
+IT-025,User acceptance testing for core systems,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-01,High,True,2027-01-14,2027-01-20,41200
+IT-026,IPTV / Guest TV system setup and testing,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-02,High,False,2027-01-06,2027-01-15,75900
+IT-027,System interface inventory and documentation,IT,Information Technology,Systems Integration (PMS/POS),Systems Integration Manager,VEN-IT-04,Medium,False,2027-01-13,2027-01-17,54800
+IT-028,CCTV network and system integration,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,VEN-IT-02,High,False,2027-01-26,2027-02-18,140300
+IT-029,Access control system technical integration and configuration,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,Medium,False,2027-01-21,2027-02-09,31700
+IT-030,Staff laptop and desktop procurement and imaging,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,Low,False,2027-01-05,2027-01-23,33000
+IT-031,Printer and peripheral deployment,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,VEN-IT-03,Medium,False,2027-01-07,2027-01-27,70900
+IT-032,Help desk ticketing system setup,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,VEN-IT-04,Low,False,2027-01-28,2027-02-10,68800
+IT-033,Cybersecurity policy and antivirus deployment,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,Medium,False,2027-01-28,2027-02-04,65000
+IT-034,Data backup and disaster recovery setup,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,Low,False,2027-01-29,2027-02-15,37900
+IT-035,Staff email and directory account creation,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,VEN-IT-04,Medium,False,2027-01-19,2027-01-26,128800
+IT-036,IT induction training for department heads,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,High,False,2027-01-26,2027-01-31,46100
+IT-037,End-user support SOP documentation,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,VEN-IT-02,Medium,False,2027-01-13,2027-01-20,25700
+IT-038,Mobile Device Management (MDM) setup,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,Low,False,2027-01-11,2027-01-26,19400
+IT-039,IT asset inventory and tagging,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,High,False,2027-01-18,2027-01-30,24300
+IT-040,IT vendor support and SLA documentation,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,Medium,False,2027-01-08,2027-01-12,16700
+IT-041,Final IT systems readiness testing,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,VEN-IT-02,High,True,2027-02-18,2027-02-28,73200
+IT-042,IT handover documentation and support escalation matrix,IT,Information Technology,Security & End-User Support,IT Support & Security Manager,,Medium,False,2027-01-18,2027-01-21,21800
+ENG-001,HVAC system installation and commissioning,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-02,High,True,2026-12-23,2027-01-09,31000
+ENG-002,Chiller plant testing,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-03,Medium,False,2026-12-25,2026-12-30,129200
+ENG-003,Electrical switchgear installation,ENG,Engineering,MEP Systems,MEP Engineer,,High,True,2026-12-07,2026-12-26,54600
+ENG-004,Backup generator installation,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-01,High,True,2026-12-11,2026-12-30,99100
+ENG-005,Generator load testing,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-01,High,True,2026-12-09,2026-12-17,27800
+ENG-006,Domestic water pump system testing,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-02,Medium,False,2026-12-08,2026-12-15,334500
+ENG-007,Hot water system commissioning,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-02,Medium,False,2026-12-15,2026-12-31,53500
+ENG-008,Plumbing system pressure testing,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-01,Medium,False,2026-12-16,2026-12-22,67100
+ENG-009,Wastewater and drainage system testing,ENG,Engineering,MEP Systems,MEP Engineer,,Medium,False,2026-12-21,2026-12-28,27500
+ENG-010,Building management system integration,ENG,Engineering,MEP Systems,MEP Engineer,VEN-MEP-01,High,True,2026-12-24,2027-01-13,35200
+ENG-011,Energy metering system setup,ENG,Engineering,MEP Systems,MEP Engineer,,High,False,2026-12-21,2027-01-06,214700
+ENG-012,Fire alarm system installation,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,VEN-FLS-01,Critical,False,2027-01-08,2027-01-25,161100
+ENG-013,Fire alarm system testing and certification,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,,High,True,2026-12-14,2026-12-23,32200
+ENG-014,Sprinkler system installation,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,,Critical,False,2026-12-30,2027-01-14,126700
+ENG-015,Sprinkler system pressure testing,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,VEN-FLS-01,High,True,2026-12-24,2026-12-30,38400
+ENG-016,Emergency lighting installation,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,VEN-FLS-01,Medium,False,2026-12-14,2026-12-30,296700
+ENG-017,Elevator installation,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,VEN-ELE-01,High,False,2026-12-17,2027-01-04,169300
+ENG-018,Elevator load and safety testing,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,,High,True,2026-12-17,2026-12-27,51500
+ENG-019,Fire pump system testing,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,VEN-FLS-01,High,True,2026-12-24,2027-01-02,27100
+ENG-020,Smoke extraction system testing,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,VEN-FLS-01,High,True,2027-01-04,2027-01-09,252100
+ENG-021,Emergency evacuation signage installation,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,VEN-FLS-02,Medium,False,2027-01-08,2027-01-31,173500
+ENG-022,Civil defense inspection and approval,ENG,Engineering,Life Safety Systems,Life Safety Systems Engineer,,Critical,True,2026-12-30,2027-01-08,149200
+ENG-023,Building envelope inspection,ENG,Engineering,Building Commissioning,Chief Engineer,,Medium,False,2027-02-10,2027-02-22,203600
+ENG-024,Punch list creation for public areas,ENG,Engineering,Building Commissioning,Chief Engineer,,Medium,False,2027-02-12,2027-02-19,91200
+ENG-025,Punch list creation for back-of-house areas,ENG,Engineering,Building Commissioning,Chief Engineer,,High,False,2027-01-22,2027-02-03,215300
+ENG-026,Snagging and de-snagging process setup,ENG,Engineering,Building Commissioning,Chief Engineer,,Medium,False,2027-02-10,2027-02-21,161400
+ENG-027,Preventive maintenance program setup,ENG,Engineering,Building Commissioning,Chief Engineer,,Medium,False,2027-01-20,2027-01-26,107800
+ENG-028,Equipment warranty documentation,ENG,Engineering,Building Commissioning,Chief Engineer,,Low,False,2027-01-28,2027-01-31,85900
+ENG-029,Spare parts inventory setup,ENG,Engineering,Building Commissioning,Chief Engineer,,Low,False,2027-01-27,2027-02-20,48200
+ENG-030,Engineering SOP documentation,ENG,Engineering,Building Commissioning,Chief Engineer,,Medium,False,2027-02-08,2027-02-15,29900
+ENG-031,Contractor handover and sign-off,ENG,Engineering,Building Commissioning,Chief Engineer,VEN-MEP-03,Medium,False,2027-02-03,2027-02-17,122300
+ENG-032,Final commissioning report preparation,ENG,Engineering,Building Commissioning,Chief Engineer,VEN-MEP-02,High,False,2027-01-26,2027-01-31,285000
+ENG-033,Engineering final operational readiness inspection,ENG,Engineering,Building Commissioning,Chief Engineer,,High,True,2027-02-16,2027-02-26,133800
+HR-001,Organizational chart finalization,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,Low,False,2026-12-10,2026-12-14,3800
+HR-002,Job description creation for all positions,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,Medium,False,2026-12-25,2027-01-08,6300
+HR-003,Recruitment plan and hiring timeline,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,VEN-TRN-02,Medium,False,2026-12-07,2026-12-20,5800
+HR-004,Department head recruitment,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,High,False,2026-12-23,2027-01-05,21800
+HR-005,Line staff recruitment,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,High,False,2026-12-07,2026-12-20,33000
+HR-006,Recruitment agency coordination,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,High,False,2026-12-09,2026-12-18,9300
+HR-007,Interview and selection process setup,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,VEN-TRN-02,Medium,False,2026-12-10,2027-01-03,48100
+HR-008,Offer letter and contract issuance,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,Low,False,2026-12-16,2026-12-30,6800
+HR-009,Staff headcount tracking dashboard,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,VEN-TRN-01,Medium,False,2026-12-16,2026-12-30,38500
+HR-010,Local labor market compliance review,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,High,False,2026-12-11,2026-12-23,6500
+HR-011,Recruitment budget tracking,HR,Human Resources,Recruitment & Staffing,Talent Acquisition Manager,,Medium,False,2026-12-22,2027-01-04,16100
+HR-012,New hire onboarding program design,HR,Human Resources,Onboarding & Training,Training & Development Manager,VEN-TRN-02,Low,False,2027-01-11,2027-01-20,10200
+HR-013,Employee handbook creation,HR,Human Resources,Onboarding & Training,Training & Development Manager,VEN-TRN-01,Low,False,2027-01-22,2027-01-31,20800
+HR-014,Brand orientation program,HR,Human Resources,Onboarding & Training,Training & Development Manager,,High,False,2027-01-29,2027-02-06,8000
+HR-015,Department-specific SOP training,HR,Human Resources,Onboarding & Training,Training & Development Manager,,Medium,False,2027-01-12,2027-01-17,12400
+HR-016,Service standards training,HR,Human Resources,Onboarding & Training,Training & Development Manager,VEN-TRN-01,High,False,2027-02-04,2027-02-11,19900
+HR-017,Fire and safety training for all staff,HR,Human Resources,Onboarding & Training,Training & Development Manager,,Critical,False,2027-01-12,2027-01-19,9500
+HR-018,Cross-training program setup,HR,Human Resources,Onboarding & Training,Training & Development Manager,,High,False,2027-01-28,2027-02-06,3100
+HR-019,Training completion tracking system,HR,Human Resources,Onboarding & Training,Training & Development Manager,,Medium,False,2027-02-01,2027-02-07,13700
+HR-020,Trainer certification program,HR,Human Resources,Onboarding & Training,Training & Development Manager,,High,False,2027-02-04,2027-02-11,4600
+HR-021,Pre-opening simulation and mock service training,HR,Human Resources,Onboarding & Training,Training & Development Manager,,High,False,2027-01-26,2027-02-05,15800
+HR-022,Uniform fitting and distribution,HR,Human Resources,Onboarding & Training,Training & Development Manager,VEN-TRN-02,Medium,False,2027-01-25,2027-02-02,30000
+HR-023,Staff accommodation readiness,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,Medium,False,2026-12-23,2027-01-04,12200
+HR-024,Staff transportation arrangement,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,VEN-PRO-01,Medium,False,2026-12-28,2027-01-05,54300
+HR-025,Visa and work permit processing,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,Medium,False,2026-12-28,2027-01-09,32000
+HR-026,Medical insurance enrollment,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,Critical,False,2026-12-15,2026-12-26,24700
+HR-027,Staff cafeteria setup,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,Medium,False,2026-12-14,2026-12-29,4000
+HR-028,Payroll system setup,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,Medium,False,2026-12-23,2027-01-15,4400
+HR-029,Employee policy and code of conduct sign-off,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,Medium,False,2027-01-05,2027-01-09,11700
+HR-030,Labor law compliance review,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,VEN-PRO-01,Critical,False,2026-12-18,2026-12-26,7900
+HR-031,Employee relations and grievance procedure setup,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,High,False,2027-01-01,2027-01-21,8300
+HR-032,Staff welfare committee formation,HR,Human Resources,Employee Welfare & Compliance,HR Compliance Manager,,High,False,2026-12-22,2027-01-05,12500
+HK-001,Room inventory and inspection checklist,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Low,False,2027-01-26,2027-02-01,28100
+HK-002,FF&E installation verification per room,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Medium,False,2027-01-26,2027-02-05,25600
+HK-003,Room deep-cleaning schedule,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Medium,False,2027-01-25,2027-02-06,14300
+HK-004,Minibar stocking setup,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Low,False,2027-02-04,2027-02-20,35200
+HK-005,In-room amenities placement,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,VEN-OSE-02,High,False,2027-01-26,2027-02-07,17000
+HK-006,Room technology testing,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Low,False,2027-01-27,2027-02-01,3700
+HK-007,Room readiness sign-off process,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Medium,False,2027-02-10,2027-02-24,52400
+HK-008,Turndown service setup,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,High,False,2027-02-04,2027-02-26,21300
+HK-009,Lost and found procedure setup,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Medium,False,2027-01-29,2027-02-14,9400
+HK-010,Guest room supply par level setup,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,Low,False,2027-02-05,2027-02-15,5400
+HK-011,Room status system integration with PMS,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,High,False,2027-02-05,2027-02-26,12600
+HK-012,Housekeeping room readiness trial,HK,Housekeeping,Room Readiness,Housekeeping Operations Manager,,High,True,2027-02-16,2027-02-26,5400
+HK-013,Linen inventory procurement,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,VEN-LND-01,Medium,False,2027-01-19,2027-02-09,7100
+HK-014,Laundry equipment installation,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,,Medium,False,2027-01-06,2027-01-16,14400
+HK-015,Laundry SOP documentation,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,,Medium,False,2027-01-15,2027-01-21,22300
+HK-016,Linen par level calculation,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,VEN-LND-02,Low,False,2027-01-12,2027-01-23,68700
+HK-017,Outsourced laundry vendor agreement,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,VEN-LND-01,Medium,False,2026-12-30,2027-01-13,21100
+HK-018,Uniform laundry process setup,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,,High,False,2027-01-14,2027-01-24,25800
+HK-019,Linen room organization,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,VEN-LND-01,High,False,2027-01-13,2027-01-25,15800
+HK-020,Laundry chemical supply setup,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,VEN-LND-01,High,False,2027-01-08,2027-01-25,49800
+HK-021,Laundry staff training,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,VEN-LND-02,Critical,False,2026-12-29,2027-01-06,6700
+HK-022,Quality control checklist for linen,HK,Housekeeping,Linen & Laundry Operations,Laundry Operations Supervisor,VEN-LND-01,High,False,2027-01-14,2027-01-19,42000
+HK-023,Housekeeping SOP manual creation,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,VEN-OSE-03,Medium,False,2027-01-07,2027-01-12,11000
+HK-024,Cleaning equipment procurement,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,Medium,False,2026-12-23,2027-01-14,5200
+HK-025,Public area cleaning schedule,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,Medium,False,2027-01-05,2027-01-12,46900
+HK-026,Chemical safety and MSDS documentation,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,VEN-OSE-01,Low,False,2026-12-29,2027-01-05,13200
+HK-027,Housekeeping trolley setup,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,Medium,False,2026-12-21,2027-01-07,34500
+HK-028,Pest control program setup,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,Medium,False,2026-12-21,2026-12-26,9200
+HK-029,Deep cleaning contractor coordination,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,Low,False,2026-12-23,2027-01-06,14500
+HK-030,Housekeeping staffing model,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,Medium,False,2026-12-28,2027-01-10,4200
+HK-031,Inspection and quality audit checklist,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,VEN-PRO-01,High,False,2027-01-06,2027-01-10,4400
+HK-032,Housekeeping software and system training,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,High,False,2026-12-24,2027-01-01,14000
+HK-033,Back-of-house storage organization,HK,Housekeeping,SOPs & Equipment,Executive Housekeeper,,Medium,False,2027-01-05,2027-01-15,17800
+FO-001,PMS front desk module training,FO,Front Office,Guest Systems & Reservations,Reservations Manager,,High,False,2027-01-08,2027-01-16,28000
+FO-002,Reservation system setup,FO,Front Office,Guest Systems & Reservations,Reservations Manager,VEN-IT-03,High,False,2027-01-06,2027-01-16,23500
+FO-003,Rate and inventory loading,FO,Front Office,Guest Systems & Reservations,Reservations Manager,,Low,False,2026-12-21,2026-12-29,8300
+FO-004,Group booking process setup,FO,Front Office,Guest Systems & Reservations,Reservations Manager,VEN-IT-03,Low,False,2026-12-21,2027-01-14,57900
+FO-005,Guest profile database setup,FO,Front Office,Guest Systems & Reservations,Reservations Manager,,Critical,False,2027-01-13,2027-01-30,14400
+FO-006,Guest key card operational testing and acceptance,FO,Front Office,Guest Systems & Reservations,Reservations Manager,VEN-IT-04,High,True,2027-01-08,2027-01-13,8100
+FO-007,Check-in and check-out workflow design,FO,Front Office,Guest Systems & Reservations,Reservations Manager,VEN-IT-04,Critical,False,2027-01-08,2027-01-20,36200
+FO-008,Payment processing setup at front desk,FO,Front Office,Guest Systems & Reservations,Reservations Manager,,Medium,False,2027-01-11,2027-01-22,19800
+FO-009,Currency exchange procedure setup,FO,Front Office,Guest Systems & Reservations,Reservations Manager,VEN-IT-01,Medium,False,2026-12-24,2027-01-17,44100
+FO-010,Guest messaging system setup,FO,Front Office,Guest Systems & Reservations,Reservations Manager,VEN-IT-01,Low,False,2027-01-05,2027-01-23,6300
+FO-011,Wake-up call system testing,FO,Front Office,Guest Systems & Reservations,Reservations Manager,,High,False,2026-12-22,2026-12-28,4600
+FO-012,Revenue management system setup,FO,Front Office,Guest Systems & Reservations,Reservations Manager,VEN-IT-02,Medium,False,2027-01-11,2027-01-27,9000
+FO-013,Front office SOP manual,FO,Front Office,SOPs & Training,Front Office Manager,,Low,False,2027-01-29,2027-02-02,11300
+FO-014,Guest service standards training,FO,Front Office,SOPs & Training,Front Office Manager,,High,False,2027-02-05,2027-02-10,13500
+FO-015,Concierge services setup,FO,Front Office,SOPs & Training,Front Office Manager,,Low,False,2027-02-02,2027-02-22,5000
+FO-016,Bell desk and luggage handling procedures,FO,Front Office,SOPs & Training,Front Office Manager,VEN-TRN-02,Medium,False,2027-02-05,2027-02-13,9300
+FO-017,Telephone operator and switchboard training,FO,Front Office,SOPs & Training,Front Office Manager,,Medium,False,2027-02-04,2027-02-11,5400
+FO-018,Complaint handling procedure,FO,Front Office,SOPs & Training,Front Office Manager,,Medium,False,2027-01-27,2027-02-04,18100
+FO-019,VIP guest handling procedure,FO,Front Office,SOPs & Training,Front Office Manager,,Low,False,2027-02-01,2027-02-13,6200
+FO-020,Upselling and cross-selling training,FO,Front Office,SOPs & Training,Front Office Manager,VEN-TRN-01,Medium,False,2027-02-03,2027-02-11,21700
+FO-021,Night audit procedure setup,FO,Front Office,SOPs & Training,Front Office Manager,VEN-PRO-01,Low,False,2027-02-12,2027-02-23,5900
+FO-022,Front office staffing schedule,FO,Front Office,SOPs & Training,Front Office Manager,,Low,False,2027-02-05,2027-02-14,16100
+FO-023,Lobby ambiance and welcome experience design,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,,Medium,False,2027-02-16,2027-02-26,20100
+FO-024,Airport transfer coordination process,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,,Low,False,2027-02-15,2027-02-25,10400
+FO-025,Guest arrival experience mapping,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,VEN-MKT-02,Medium,False,2027-01-25,2027-02-05,15700
+FO-026,Loyalty program setup,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,VEN-MKT-02,Medium,False,2027-02-01,2027-02-10,4200
+FO-027,Guest feedback and survey system,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,VEN-MKT-02,Medium,False,2027-02-04,2027-02-16,43300
+FO-028,Business center setup,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,,High,False,2027-02-03,2027-02-22,7700
+FO-029,Guest amenities and welcome kit design,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,,Low,False,2027-02-03,2027-02-16,38300
+FO-030,Signage and wayfinding installation,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,VEN-MKT-02,Medium,False,2027-01-29,2027-02-09,34400
+FO-031,Valet parking procedure setup,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,,Medium,False,2027-02-17,2027-02-26,18400
+FO-032,Guest privacy and data protection compliance,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,,Medium,False,2027-02-04,2027-02-15,16000
+FO-033,Front Office end-to-end guest journey test,FO,Front Office,Guest Experience Readiness,Guest Experience Manager,VEN-MKT-01,High,True,2027-02-15,2027-02-24,12500
+FB-001,Kitchen equipment installation,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,,High,False,2026-12-25,2027-01-15,25400
+FB-002,Kitchen equipment testing and calibration,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,,Medium,False,2026-12-17,2026-12-22,53200
+FB-003,Kitchen exhaust and ventilation testing,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-02,Low,False,2026-12-21,2026-12-29,50800
+FB-004,Cold storage and walk-in chiller setup,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-01,High,False,2026-12-14,2027-01-06,75300
+FB-005,HACCP food safety system setup,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,,Medium,False,2026-12-16,2027-01-07,56600
+FB-006,Kitchen layout and workflow finalization,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-01,Low,False,2026-12-22,2027-01-01,29900
+FB-007,F&B staffing requirements confirmation,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-02,High,False,2026-12-25,2027-01-01,81500
+FB-008,Kitchen SOP documentation,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-02,High,False,2027-01-04,2027-01-11,44000
+FB-009,Food safety certification and inspection,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-01,High,True,2026-12-21,2027-01-03,15600
+FB-010,Chef recruitment and menu development lead,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-01,Medium,False,2026-12-14,2026-12-28,42700
+FB-011,Kitchen stewarding setup,FB,Food & Beverage,Kitchen Commissioning,Executive Chef,VEN-KIT-01,High,False,2027-01-07,2027-01-27,44700
+FB-012,Restaurant outlet design finalization,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,,Medium,False,2027-01-08,2027-01-19,48200
+FB-013,Bar outlet setup,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,,Medium,False,2026-12-30,2027-01-20,12700
+FB-014,Menu engineering and costing,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,,Medium,False,2027-01-06,2027-01-18,135200
+FB-015,Wine and beverage list development,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,VEN-KIT-01,Medium,False,2026-12-29,2027-01-05,83800
+FB-016,Menu tasting and finalization,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,,Medium,False,2027-01-14,2027-01-24,15900
+FB-017,POS menu configuration,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,VEN-KIT-01,High,False,2027-01-14,2027-01-25,41500
+FB-018,Outlet furniture and equipment installation,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,VEN-KIT-02,Medium,False,2027-01-15,2027-01-27,111100
+FB-019,Room service setup,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,VEN-KIT-01,High,False,2026-12-29,2027-01-18,36000
+FB-020,Banquet and events menu development,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,,Medium,False,2027-01-04,2027-01-12,36200
+FB-021,Outlet staffing plan,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,,Medium,False,2026-12-28,2027-01-05,28200
+FB-022,Outlet SOP documentation,FB,Food & Beverage,Outlet Setup & Menu Development,F&B Director,VEN-KIT-01,Low,False,2027-01-15,2027-01-22,22000
+FB-023,F&B supplier onboarding,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-04,Medium,False,2027-01-25,2027-02-01,15800
+FB-024,Food supply chain and delivery schedule,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-01,Low,False,2027-02-04,2027-02-12,104000
+FB-025,Beverage supplier contracts,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-02,Medium,False,2027-01-22,2027-01-31,76300
+FB-026,Service sequence training,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-01,High,False,2027-01-27,2027-02-02,30400
+FB-027,Table setting and mise-en-place standards,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-04,Low,False,2027-01-25,2027-02-08,150100
+FB-028,Allergen and dietary requirement procedures,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,,Medium,False,2027-02-03,2027-02-15,39500
+FB-029,F&B cost control system setup,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-01,Medium,False,2027-01-22,2027-02-15,18900
+FB-030,Wastage and inventory tracking setup,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-03,High,False,2027-01-18,2027-01-31,17800
+FB-031,F&B full service simulation,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,VEN-FB-01,High,True,2027-02-19,2027-02-25,34100
+FB-032,F&B licensing and regulatory approvals,FB,Food & Beverage,Supplier & Service Readiness,F&B Operations Manager,,High,True,2027-02-01,2027-02-15,25500
+SEC-001,CCTV coverage plan finalization,SEC,Security,Surveillance & Access Control,Security Systems Manager,,High,False,2027-01-06,2027-01-16,9700
+SEC-002,CCTV installation in guest and back-of-house areas,SEC,Security,Surveillance & Access Control,Security Systems Manager,,Medium,False,2026-12-21,2027-01-02,20500
+SEC-003,CCTV monitoring room setup,SEC,Security,Surveillance & Access Control,Security Systems Manager,,Critical,False,2026-12-22,2027-01-12,49300
+SEC-004,Access control policy and procedures setup,SEC,Security,Surveillance & Access Control,Security Systems Manager,VEN-SEC-02,High,False,2026-12-28,2026-12-31,17100
+SEC-005,Perimeter security fencing and gates,SEC,Security,Surveillance & Access Control,Security Systems Manager,VEN-SEC-03,Medium,False,2026-12-23,2027-01-01,71200
+SEC-006,Vehicle screening procedure setup,SEC,Security,Surveillance & Access Control,Security Systems Manager,VEN-SEC-03,High,False,2026-12-31,2027-01-24,63200
+SEC-007,Baggage screening equipment installation,SEC,Security,Surveillance & Access Control,Security Systems Manager,VEN-SEC-02,Medium,False,2026-12-30,2027-01-13,32600
+SEC-008,Security control room setup,SEC,Security,Surveillance & Access Control,Security Systems Manager,VEN-SEC-02,Medium,False,2027-01-12,2027-01-23,27300
+SEC-009,Guest floor access control testing,SEC,Security,Surveillance & Access Control,Security Systems Manager,VEN-SEC-03,High,False,2027-01-01,2027-01-09,32400
+SEC-010,Key control and management system,SEC,Security,Surveillance & Access Control,Security Systems Manager,VEN-SEC-02,High,False,2027-01-15,2027-01-25,45800
+SEC-011,Security patrol route planning,SEC,Security,Surveillance & Access Control,Security Systems Manager,,Medium,False,2026-12-25,2027-01-01,37000
+SEC-012,Emergency response plan development,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,VEN-FLS-01,Critical,False,2027-01-15,2027-01-29,9500
+SEC-013,Crisis management plan development,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,Low,False,2027-01-15,2027-01-24,48400
+SEC-014,Evacuation drill planning,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,High,False,2027-01-13,2027-01-19,12200
+SEC-015,First aid and medical emergency procedure,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,Medium,False,2027-01-27,2027-02-07,5300
+SEC-016,Bomb threat and suspicious item procedure,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,VEN-FLS-01,Low,False,2027-01-04,2027-01-16,9900
+SEC-017,Fire warden appointment and training,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,High,False,2027-01-27,2027-02-04,71100
+SEC-018,Security incident reporting system,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,Low,False,2027-01-06,2027-01-11,24500
+SEC-019,Coordination with local police and civil defense,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,Critical,False,2027-01-25,2027-02-05,66400
+SEC-020,Lost child and vulnerable guest procedure,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,Low,False,2027-01-22,2027-01-29,24600
+SEC-021,Emergency communication system testing,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,Medium,False,2027-01-05,2027-01-13,18900
+SEC-022,Business continuity plan,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,Medium,False,2027-01-20,2027-02-01,11900
+SEC-023,Security emergency readiness drill,SEC,Security,Emergency & Safety Procedures,Security Operations Manager,,High,True,2027-02-19,2027-02-26,26900
+SEC-024,Security staffing readiness,SEC,Security,Staff Training & Licensing,Chief Security Officer,,High,False,2027-01-12,2027-01-19,7400
+SEC-025,Security guard licensing verification,SEC,Security,Staff Training & Licensing,Chief Security Officer,,Critical,True,2027-01-26,2027-02-03,60300
+SEC-026,Security staff training program,SEC,Security,Staff Training & Licensing,Chief Security Officer,VEN-TRN-01,Medium,False,2027-02-03,2027-02-12,66100
+SEC-027,Guest privacy and confidentiality training,SEC,Security,Staff Training & Licensing,Chief Security Officer,,Medium,False,2027-01-19,2027-01-27,70200
+SEC-028,Security SOP manual,SEC,Security,Staff Training & Licensing,Chief Security Officer,,Medium,False,2027-01-22,2027-01-29,49300
+SEC-029,Security uniform and equipment issuance,SEC,Security,Staff Training & Licensing,Chief Security Officer,,High,False,2027-02-02,2027-02-16,31700
+SEC-030,Shift scheduling and roster setup,SEC,Security,Staff Training & Licensing,Chief Security Officer,,Low,False,2027-01-13,2027-01-23,7000
+SEC-031,VIP and event security protocol,SEC,Security,Staff Training & Licensing,Chief Security Officer,,Medium,False,2027-01-11,2027-01-25,18800
+SEC-032,Security staff background checks,SEC,Security,Staff Training & Licensing,Chief Security Officer,,Medium,False,2027-01-26,2027-02-05,20300
+SEC-033,Security equipment maintenance schedule,SEC,Security,Staff Training & Licensing,Chief Security Officer,,High,False,2027-02-05,2027-02-14,9500
+FIN-001,Accounting system (ERP) installation,FIN,Finance,Systems & Controls Setup,Financial Controller,,Medium,False,2026-12-16,2027-01-08,3700
+FIN-002,Chart of accounts setup,FIN,Finance,Systems & Controls Setup,Financial Controller,,High,False,2026-12-22,2026-12-25,22400
+FIN-003,PMS-to-accounting system interface,FIN,Finance,Systems & Controls Setup,Financial Controller,,High,False,2026-12-17,2026-12-27,4100
+FIN-004,Cash handling and float procedures,FIN,Finance,Systems & Controls Setup,Financial Controller,VEN-IT-02,Low,False,2026-12-25,2027-01-05,22000
+FIN-005,Petty cash policy setup,FIN,Finance,Systems & Controls Setup,Financial Controller,,High,False,2026-12-17,2026-12-23,29000
+FIN-006,Bank account opening and setup,FIN,Finance,Systems & Controls Setup,Financial Controller,,Medium,False,2026-12-17,2027-01-06,6200
+FIN-007,Credit card merchant account setup,FIN,Finance,Systems & Controls Setup,Financial Controller,VEN-IT-04,High,False,2026-12-10,2026-12-25,32700
+FIN-008,Internal control policy documentation,FIN,Finance,Systems & Controls Setup,Financial Controller,,Medium,False,2026-12-08,2026-12-11,3100
+FIN-009,Segregation of duties matrix,FIN,Finance,Systems & Controls Setup,Financial Controller,,Medium,False,2026-12-15,2026-12-20,14300
+FIN-010,Purchase approval workflow setup,FIN,Finance,Systems & Controls Setup,Financial Controller,,Medium,False,2026-12-15,2027-01-07,7700
+FIN-011,Finance staffing readiness,FIN,Finance,Systems & Controls Setup,Financial Controller,,Medium,False,2026-12-25,2027-01-04,8200
+FIN-012,Pre-opening budget finalization,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2027-01-06,2027-01-15,12900
+FIN-013,Operating budget development,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2027-01-08,2027-01-18,4900
+FIN-014,Capex tracking and reporting,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2027-01-01,2027-01-06,5200
+FIN-015,Cash flow forecasting model,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2026-12-16,2026-12-25,10500
+FIN-016,Departmental budget allocation,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,VEN-PRO-01,Medium,False,2026-12-22,2026-12-30,30600
+FIN-017,Management reporting templates,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2026-12-22,2026-12-29,6500
+FIN-018,KPI and dashboard reporting setup,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2027-01-04,2027-01-09,9100
+FIN-019,Owner reporting requirements alignment,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2026-12-14,2026-12-21,4700
+FIN-020,Cost center structure setup,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Low,False,2026-12-16,2026-12-29,3600
+FIN-021,Financial policy and procedure manual,FIN,Finance,Budgeting & Reporting Readiness,Finance Manager,,Medium,False,2027-01-05,2027-01-11,22800
+FIN-022,External audit firm engagement,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,,High,False,2027-01-20,2027-01-29,6000
+FIN-023,VAT and tax registration compliance,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,,High,False,2027-01-25,2027-02-06,4800
+FIN-024,Insurance policy procurement,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,,Critical,False,2027-02-04,2027-02-11,18000
+FIN-025,Statutory compliance checklist,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,VEN-PRO-01,Medium,False,2027-01-15,2027-01-20,21600
+FIN-026,Anti-money laundering policy setup,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,VEN-PRO-01,Critical,False,2027-02-03,2027-02-06,7000
+FIN-027,Owner-operator agreement financial terms review,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,VEN-PRO-01,High,False,2027-01-13,2027-01-22,6700
+FIN-028,Payroll compliance review,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,,High,False,2027-01-12,2027-01-22,16400
+FIN-029,Financial systems access control setup,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,,High,False,2027-01-19,2027-02-10,27000
+FIN-030,Pre-opening cost audit,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,,Low,False,2027-01-25,2027-02-01,19600
+FIN-031,Year-end closing procedure documentation,FIN,Finance,Audit & Compliance,Compliance & Audit Manager,,High,False,2027-02-04,2027-02-08,23300
+PRC-001,Vendor database creation,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Low,False,2026-12-10,2026-12-24,16800
+PRC-002,Vendor prequalification process,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,High,False,2026-12-10,2026-12-22,35500
+PRC-003,Master supply agreements negotiation,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Low,False,2026-12-07,2026-12-18,14400
+PRC-004,Vendor code of conduct sign-off,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,High,False,2026-12-09,2026-12-21,24100
+PRC-005,Procurement policy and approval matrix,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,VEN-PRO-01,Critical,False,2026-12-17,2026-12-22,26900
+PRC-006,Local vendor sourcing strategy,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Medium,False,2026-12-10,2026-12-21,15900
+PRC-007,Vendor performance evaluation criteria,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Low,False,2026-12-17,2026-12-25,89700
+PRC-008,Purchase order system setup,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Low,False,2026-12-10,2027-01-02,10500
+PRC-009,Vendor payment terms negotiation,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Medium,False,2026-12-07,2026-12-19,7500
+PRC-010,Emergency and backup vendor list,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Low,False,2026-12-14,2026-12-26,17500
+PRC-011,Procurement staffing readiness,PRC,Procurement,Vendor Onboarding & Contracts,Procurement Manager,,Critical,False,2026-12-17,2026-12-30,53400
+PRC-012,FF&E specification and budget approval,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,VEN-FFE-01,Low,False,2026-12-07,2026-12-17,42100
+PRC-013,Guest room furniture procurement,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,VEN-FFE-04,Medium,False,2026-12-25,2027-01-08,12800
+PRC-014,Public area furniture procurement,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,,Medium,False,2026-12-16,2027-01-10,13200
+PRC-015,Lighting fixtures procurement,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,,Low,False,2026-12-07,2026-12-24,60900
+PRC-016,Artwork and decor procurement,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,VEN-FFE-04,Medium,False,2026-12-08,2026-12-31,42100
+PRC-017,FF&E delivery and logistics coordination,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,VEN-FFE-04,Medium,False,2026-12-29,2027-01-10,7400
+PRC-018,FF&E installation supervision,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,,Medium,False,2026-12-23,2027-01-14,15200
+PRC-019,FF&E quality inspection,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,VEN-FFE-03,Low,False,2026-12-07,2026-12-17,16200
+PRC-020,FF&E warranty documentation,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,VEN-FFE-02,High,False,2026-12-14,2026-12-19,29200
+PRC-021,FF&E storage and staging area setup,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,VEN-FFE-03,Low,False,2026-12-16,2027-01-02,9800
+PRC-022,Damaged or defective FF&E replacement process,PRC,Procurement,FF&E Procurement,FF&E Procurement Lead,,Medium,False,2026-12-07,2026-12-17,66700
+PRC-023,OS&E budget and specification list,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-02,High,False,2026-12-17,2026-12-27,15100
+PRC-024,Guest amenities procurement,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-02,Medium,False,2026-12-15,2027-01-01,82000
+PRC-025,Kitchen smallwares procurement,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-02,Medium,False,2027-01-05,2027-01-26,89100
+PRC-026,Linen and uniform procurement,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-01,Medium,False,2026-12-15,2026-12-25,109900
+PRC-027,Cleaning supplies procurement,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-03,Low,False,2026-12-14,2027-01-05,9900
+PRC-028,Office supplies procurement,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-03,High,False,2026-12-21,2027-01-12,128400
+PRC-029,OS&E par level setup,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-02,Medium,False,2027-01-05,2027-01-20,8200
+PRC-030,OS&E storage and inventory system,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-01,Low,False,2026-12-29,2027-01-10,105600
+PRC-031,OS&E delivery schedule coordination,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-03,Medium,False,2026-12-29,2027-01-10,79400
+PRC-032,OS&E tracker setup and handover,PRC,Procurement,OS&E (Operating Supplies),OS&E Procurement Lead,VEN-OSE-03,Medium,False,2026-12-22,2027-01-15,29900
+SM-001,Brand guidelines finalization,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,VEN-MKT-02,Medium,False,2026-12-15,2026-12-28,23700
+SM-002,Hotel website development,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,VEN-MKT-02,Medium,False,2026-12-28,2027-01-11,90200
+SM-003,Website booking engine integration,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,,Medium,False,2026-12-25,2027-01-06,64100
+SM-004,Social media account setup,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,,Low,False,2026-12-21,2027-01-05,6800
+SM-005,Photography and videography shoot,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,,Medium,False,2026-12-07,2026-12-15,87000
+SM-006,Digital marketing strategy development,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,,Medium,False,2026-12-29,2027-01-08,18000
+SM-007,SEO and online listing setup,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,VEN-MKT-01,High,False,2026-12-17,2027-01-09,7000
+SM-008,OTA account setup,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,,High,False,2026-12-23,2027-01-16,43200
+SM-009,Email marketing platform setup,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,,Critical,False,2026-12-23,2027-01-05,33600
+SM-010,Brand collateral design,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,VEN-MKT-02,High,False,2026-12-31,2027-01-12,63100
+SM-011,CRM system setup,SM,Sales & Marketing,Brand & Digital Presence,Digital Marketing Manager,,Medium,False,2026-12-15,2027-01-08,5500
+SM-012,Sales & Marketing staffing readiness,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,Medium,False,2027-01-04,2027-01-14,21700
+SM-013,Corporate account outreach plan,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,Low,False,2026-12-30,2027-01-07,15300
+SM-014,Travel agency and DMC partnerships,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,High,False,2027-01-14,2027-01-25,19000
+SM-015,Pre-opening rate strategy,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,Low,False,2026-12-25,2027-01-03,87800
+SM-016,Group and MICE sales plan,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,VEN-MKT-02,Medium,False,2026-12-30,2027-01-12,130400
+SM-017,Sales collateral and presentation kit,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,Medium,False,2027-01-15,2027-01-29,48200
+SM-018,Trade show and roadshow planning,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,VEN-MKT-01,Low,False,2027-01-22,2027-02-04,19000
+SM-019,Loyalty program partnership setup,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,Low,False,2027-01-07,2027-01-13,24500
+SM-020,Wedding and events sales plan,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,High,False,2026-12-30,2027-01-11,55100
+SM-021,Sales CRM and pipeline tracking setup,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,Medium,False,2027-01-18,2027-02-07,6100
+SM-022,Pre-opening sales target setting,SM,Sales & Marketing,Pre-Opening Sales & Partnerships,Director of Sales,,Low,False,2027-01-07,2027-01-15,17000
+SM-023,PR agency appointment,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,VEN-PR-01,Medium,False,2027-02-10,2027-02-21,8900
+SM-024,Media and influencer familiarization trip planning,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,,High,False,2027-01-25,2027-02-07,67200
+SM-025,Grand opening event planning,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,,Low,False,2027-02-15,2027-02-27,48000
+SM-026,Press release and media kit preparation,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,VEN-PR-01,Low,False,2027-01-26,2027-02-06,15400
+SM-027,Local community engagement plan,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,VEN-PR-01,Low,False,2027-02-18,2027-02-27,41400
+SM-028,Crisis communication plan,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,VEN-PR-01,Low,False,2027-02-18,2027-02-27,13600
+SM-029,Launch campaign budget and timeline,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,,Low,False,2027-01-27,2027-02-10,6100
+SM-030,Soft opening guest list and invitations,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,VEN-PR-01,High,False,2027-01-28,2027-02-05,111500
+SM-031,Opening ceremony logistics coordination,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,VEN-PR-01,High,False,2027-01-26,2027-02-09,88500
+SM-032,Post-launch marketing plan,SM,Sales & Marketing,Launch & PR Readiness,PR & Communications Manager,,Medium,False,2027-02-16,2027-02-27,7200
