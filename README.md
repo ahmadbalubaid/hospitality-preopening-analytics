@@ -79,7 +79,14 @@ This allows the report to analyze task performance across departments, vendors, 
 
 ## Dashboard
 
-Dashboard screenshots will be added here.
+### Executive Overview
+<img width="710" height="400" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/83789f40-44f3-4ab7-b76a-966b900700a9" />
+
+### Action Center
+<img width="709" height="398" alt="02_Action_Center" src="https://github.com/user-attachments/assets/034f1e1f-f593-4a65-aca7-7e60b0cbc533" />
+
+### Vendor & Cost Performance
+<img width="710" height="398" alt="03_Vendor_Cost_Performance" src="https://github.com/user-attachments/assets/89a0849d-88b8-446a-83e0-cc6a740994f3" />
 
 ## Note
 
