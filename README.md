@@ -90,6 +90,14 @@ This allows the report to analyze task performance across departments, vendors, 
 ### Vendor & Cost Performance
 <img width="710" height="398" alt="03_Vendor_Cost_Performance" src="https://github.com/user-attachments/assets/89a0849d-88b8-446a-83e0-cc6a740994f3" />
 
+## Power BI File
+
+The complete interactive Power BI report is included in this repository:
+
+`Hospitality_PreOpening_Analytics_Ahmed_Balubaid.pbix`
+
+Download the `.pbix` file to explore the data model, DAX measures, report interactions, and dashboard pages in Power BI Desktop.
+
 ## Note
 
 This is an independent portfolio project. All data shown in the project is synthetic and was generated specifically for this analysis.
