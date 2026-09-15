@@ -25,7 +25,7 @@ After generating the data, I cleaned and validated it in Python before loading i
 
 I used SQL Server to store and analyze the data before connecting it to Power BI.
 
-The SQL work included JOINs, CTEs, CASE statements, aggregations, and window functions to explore task progress, delays, departmental performance, vendor performance, and cost data.
+The SQL work included JOINs, CASE statements, GROUP BY, HAVING, and aggregate functions to explore task progress, delays, departmental performance, vendor performance, and cost data.
 
 In Power BI, I created the data model and DAX measures needed for the main KPIs and built the report around three areas.
 
@@ -56,11 +56,13 @@ It compares planned and actual costs, calculates cost variance, and shows which 
 
 ## Tools Used
 
+The SQL scripts used for database setup, data loading, and analysis are included in this repository.
+
 **Python / Pandas**  
 Data generation, cleaning, transformation, and validation.
 
-**SQL Server**  
-Data storage and analysis using JOINs, CTEs, CASE statements, aggregations, and window functions.
+**SQL Server**
+Data storage and analysis using JOINs, CASE statements, GROUP BY, HAVING, and aggregate functions.
 
 **Power BI / DAX**  
 Data modeling, KPI calculations, interactive analysis, and dashboard development.
